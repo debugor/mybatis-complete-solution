@@ -41,5 +41,5 @@ MyBatis提供了强大的SQL语句构建器，使得动态构建SQL语句变得�
 <img src="image.png"  width="200" />
 
  **微信扫码捐款**<br/>
-![输入图片说明](image2.png)
+<img src="image2.png"  width="200" />
 
