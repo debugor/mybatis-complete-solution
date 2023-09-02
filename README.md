@@ -38,6 +38,5 @@ MyBatis提供了强大的SQL语句构建器，使得动态构建SQL语句变得�
 非常感谢！  :nose: 
 
  **支付宝扫码捐款**
-![输入图片说明](image.png#pic_center =600x600)
-
+<img src="image.png"  width="600" />
 
